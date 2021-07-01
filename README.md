@@ -1,0 +1,2 @@
+# blogEmoji
+JSdeliver cdn
